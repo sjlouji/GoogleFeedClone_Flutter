@@ -1,4 +1,4 @@
-# Flutter Instagram Clone. 
+# Flutter Google Feed Clone. 
 
 Flutter Google Feeds Clone. 
 This is a simple flutter application where I have clonned Google Feeds UI.
